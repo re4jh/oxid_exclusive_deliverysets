@@ -1,5 +1,7 @@
 <?php
 
+$sMetadataVersion = '1.0';
+
 $aModule = array(
     'id'           => 'exclusive_deliverysets',
     'title'        => 'Zunderweb Exclusive Deliverysets',
